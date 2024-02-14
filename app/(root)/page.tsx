@@ -11,7 +11,7 @@ export default async function Home() {
     page: 1,
     limit: 6
   })
-
+  console.log(events)
 
   return (
     <>
@@ -44,7 +44,7 @@ export default async function Home() {
           Search
           Category Filter
         </div>
-
+        <div>wah</div>
         <Collection 
           data={[events?.data]}
           emptyTitle="No Events Found"
