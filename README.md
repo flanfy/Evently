@@ -2,6 +2,8 @@
 
 Full-stack event management platform with the ability to purchase tickets.
 
+https://event-platform-o7qbhjz4t-flanfys-projects.vercel.app/
+
 ## Tech Stack
 
 - Node.js
