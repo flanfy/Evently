@@ -5,6 +5,7 @@ import Image from 'next/image'
 import Link from 'next/link'
 import React from 'react'
 import { DeleteConfirmation } from './DeleteConfirmation'
+
 type CardProps = {
   event: IEvent,
   hasOrderLink?: boolean,
@@ -74,13 +75,3 @@ const Card = ({ event, hasOrderLink, hidePrice }: CardProps) => {
 }
 
 export default Card
-
-// import React from 'react'
-
-// const Card = () => {
-//   return (
-//     <div>Card</div>
-//   )
-// }
-
-// export default Card
