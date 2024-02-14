@@ -2,7 +2,7 @@
 
 Full-stack event management platform with the ability to purchase tickets.
 
-https://event-platform-o7qbhjz4t-flanfys-projects.vercel.app/
+https://event-platform-cyan-sigma.vercel.app/
 
 ## Tech Stack
 
